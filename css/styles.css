@@ -10995,6 +10995,8 @@ header.masthead .masthead-heading {
   position: relative;
   display: block;
   margin: 0 auto;
+  color: black;
+  text-decoration: none;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
